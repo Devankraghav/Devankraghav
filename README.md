@@ -1,4 +1,4 @@
-#<h2 align="center"> <img src="https://cdn4.iconfinder.com/data/icons/chat-icons-3-1/512/hii.png" width="470" /> </h2> :sunglasses: 
+<h6 align="center"> <img src="https://cdn4.iconfinder.com/data/icons/chat-icons-3-1/512/hii.png" width="470" /> </h6> :sunglasses: 
 # 💫 About Me:
 Devank is a dedicated computer science student with a strong drive for learning and problem-solving. Proficient in HTML5, CSS, C programming, C++, Python, and Tailwind CSS, I am actively honing my skills in React for developing cutting-edge web applications. Committed to continuous improvement, I am open to mentorship and training opportunities to further excel in software development. Embracing a growth mindset, I am passionate about ongoing learning to advance my professional journey. <br><br>For any queries or discussions, feel free to reach out via LinkedIn or email. I am always approachable and eager to connect. #SoftwareDeveloper #HTML #CSS #Python #React
 
