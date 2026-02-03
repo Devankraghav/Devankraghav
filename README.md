@@ -1,10 +1,10 @@
-#<h6 align="center"> <img src="https://cdn4.iconfinder.com/data/icons/chat-icons-3-1/512/hii.png" width="90" /> </h6> :sunglasses: 
+#<h6 align="center"> <img src="https://cdn4.iconfinder.com/data/icons/chat-icons-3-1/512/hii.png" width="87" /> </h6> :sunglasses: 
 # 💫 About Me:
 Devank is a Motivated Computer Science undergraduate with strong development skills and hands-on project experience. Skilled in building user-centric solutions with clean logic and professional standards. Adaptable team player with a problem-solving mindset, seeking opportunities to grow while contributing meaningfully. 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devank-raghav) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Devank_Raghav) (https://www.instagram.com/br34th_x)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devank-raghav) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Devank_Raghav) [ https://www.instagram.com/br34th_x ]
 
 # 💻 Tech Stack: 
 Flutter | Firebase
