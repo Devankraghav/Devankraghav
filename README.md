@@ -1,6 +1,14 @@
 #<h6 align="center"> <img src="https://cdn4.iconfinder.com/data/icons/chat-icons-3-1/512/hii.png" width="87" /> </h6> :sunglasses: 
 # 💫 About Me:
-Devank is a Motivated Computer Science undergraduate with strong development skills and hands-on project experience. Skilled in building user-centric solutions with clean logic and professional standards. Adaptable team player with a problem-solving mindset, seeking opportunities to grow while contributing meaningfully. 
+Hi, I’m Devank Raghav — a Computer Science undergraduate at CGC Landran with a strong interest in software development, mobile app development, and real-world problem solving.
+
+I’m currently focused on strengthening my skills in Java, Flutter, Dart, Firebase, Firestore, SQL, and core computer science concepts like OOP, DBMS, Data Structures, and Software Engineering. I enjoy building practical applications with clean logic, responsive UI, and reliable backend integration.
+
+I have hands-on experience in developing Flutter-based mobile applications, integrating Firebase services, working with real-time databases, and applying software development principles through academic projects and training.
+
+I’m continuously learning, improving my problem-solving skills, and exploring opportunities where I can contribute as a Java Developer, Flutter Developer, Mobile App Developer, Software Developer, or Backend Developer.
+
+Open to internships, entry-level roles, projects, and meaningful tech collaborations.
 
 
 ## 🌐 Socials:
