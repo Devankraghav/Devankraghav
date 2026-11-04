@@ -1,11 +1,11 @@
-#<h6 align="center">
+<h6 align="center">
   <img 
     src="https://github.com/user-attachments/assets/bea6ffa3-8a41-4ec8-a6b6-08969814da64"
     width="300"
     alt="HI Portrait"
   />
-</h6> :sunglasses: 
-# 💫 About Me:
+</h6><br><br> :sunglasses:
+## 💫 About Me:
 Hi, I’m Devank Raghav — a Computer Science undergraduate at CGC Landran with a strong interest in software development, mobile app development, and real-world problem solving.
 
 I’m currently focused on strengthening my skills in Java, Flutter, Dart, Firebase, Firestore, SQL, and core computer science concepts like OOP, DBMS, Data Structures, and Software Engineering. I enjoy building practical applications with clean logic, responsive UI, and reliable backend integration.
