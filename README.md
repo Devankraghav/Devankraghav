@@ -27,7 +27,7 @@
 
 ---
 
-## `01. / WHOAMI`
+## `0x01 // WHOAMI`
 
 ```bash
 devank@github:~$ whoami
@@ -55,7 +55,7 @@ Currently, I'm strengthening my skills in Java, Flutter, Dart, Firebase, Firesto
 
 I'm always looking to improve my development skills and work on projects that solve real-world problems.
 
-## `02. / TECH STACK`
+## `0x02 // TECH_STACK`
 
 <p align="center">
   <img src="https://img.shields.io/badge/JAVA-161B22?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
@@ -72,28 +72,28 @@ I'm always looking to improve my development skills and work on projects that so
 
 `OOP` · `DBMS` · `DSA Fundamentals` · `SDLC` · `Software Testing` · `REST APIs`
 
-## `03. / FEATURED PROJECTS`
+## `0x03 // FEATURED_PROJECTS`
 
-### 01. EduSync — College ERP System
+### `0x0301 // EduSync — College ERP System`
 
 `Flutter` `Firebase Authentication` `Cloud Firestore`
 
 A role-based college ERP application designed for administrators, teachers, and students. Includes academic management, attendance tracking, and QR-based attendance workflows.
 
-### 02. BlueWave — Real-Time Chat Application
+### `0x0302 // BlueWave — Real-Time Chat Application`
 
 `Flutter` `Firebase Authentication` `Cloud Firestore`
 
 A real-time messaging application featuring Google Sign-In, live messaging, user profiles, contact discovery, and message interactions.
 
 
-### 03. Gemini AI Coding Tutor
+### `0x0303 // Gemini AI Coding Tutor`
 
 `Java` `Maven` `Gemini API`
 
 A Java-based coding assistant that helps users understand programming concepts through logic explanations, pseudocode, code generation, and time complexity analysis.
 
-## `04. / ACHIEVEMENTS & CERTIFICATIONS`
+## `0x04 // ACHIEVEMENTS_CERTIFICATIONS`
 
 - Four patent applications.
 - NPTEL Elite — Software Testing, IIT Kharagpur.
@@ -102,7 +102,7 @@ A Java-based coding assistant that helps users understand programming concepts t
 - Oracle Database Foundations — SQL.
 - Oracle Fusion AI Agent Studio Foundations Associate.
 
-## `05. / GITHUB STREAK`
+## `0x05 // GITHUB_ACTIVITY`
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Devankraghav&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
@@ -114,4 +114,8 @@ A Java-based coding assistant that helps users understand programming concepts t
   <samp>OPEN TO INTERNSHIPS · ENTRY-LEVEL ROLES · COLLABORATIONS</samp>
   <br/><br/>
   <code>while(alive) { learn(); build(); repeat(); }</code>
+</p>
+
+<p align="center">
+  <samp>END_OF_FILE // 0xFF</samp>
 </p>
