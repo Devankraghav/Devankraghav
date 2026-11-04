@@ -115,6 +115,5 @@ A Java-based coding assistant that helps users understand programming concepts t
 <p align="center">
   <samp>OPEN TO INTERNSHIPS · ENTRY-LEVEL ROLES · COLLABORATIONS</samp>
   <br/><br/>
- 
   <code>while(alive) { learn(); build(); repeat(); }</code>
 </p>
