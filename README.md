@@ -1,4 +1,10 @@
-#<h6 align="center"> <img src="https://cdn4.iconfinder.com/data/icons/chat-icons-3-1/512/hii.png" width="87" /> </h6> :sunglasses: 
+#<h6 align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/bea6ffa3-8a41-4ec8-a6b6-08969814da64"
+    width="300"
+    alt="HI Portrait"
+  />
+</h6> :sunglasses: 
 # 💫 About Me:
 Hi, I’m Devank Raghav — a Computer Science undergraduate at CGC Landran with a strong interest in software development, mobile app development, and real-world problem solving.
 
@@ -30,5 +36,8 @@ Flutter | Firebase
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Devankraghav&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<img width="1122" height="1122" alt="hi-portrait" src="https://github.com/user-attachments/assets/bea6ffa3-8a41-4ec8-a6b6-08969814da64" />
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
