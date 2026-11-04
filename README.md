@@ -1,14 +1,17 @@
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bea6ffa3-8a41-4ec8-a6b6-08969814da64" width="260" alt="Devank ASCII Portrait"/>
 </p>
 
-<h1 align="center">DEVANK RAGHAV</h1>
+<h1 align="center">
+  DEVANK RAGHAV
+</h1>
 
 <p align="center">
-  <code>COMPUTER SCIENCE UNDERGRADUATE</code>
+  <code>0x01 // COMPUTER SCIENCE UNDERGRADUATE</code>
   <br/>
-  <samp>Building. Learning. Improving.</samp>
+  <samp>01000010 01010101 01001001 01001100 01000100</samp>
+  <br/>
+  <samp>BUILDING · LEARNING · IMPROVING</samp>
 </p>
 
 <p align="center">
@@ -28,22 +31,36 @@
 
 ---
 
-## `01. / WHOAMI`
+## `0x01 // WHOAMI`
 
 ```bash
-devank@github:~$ whoami
+devank@github:~$ whoami --verbose
 
-Devank Raghav
-B.Tech CSE | CGC Landran
-2023 – 2027
+[IDENTITY]
+NAME       : Devank Raghav
+DEGREE     : B.Tech Computer Science Engineering
+INSTITUTE  : CGC Landran
+TIMELINE   : 2023 - 2027
 
-devank@github:~$ focus
+[ASCII_TO_BINARY]
+01000100 01000101 01010110 01000001 01001110 01001011
+01010010 01000001 01000111 01001000 01000001 01010110
 
-Java Development
-Flutter & Mobile App Development
-Firebase & Backend Integration
+devank@github:~$ cat /sys/devank/focus
 
-devank@github:~$ status
+[PRIMARY_MODULES]
+01 >> Java Development
+02 >> Flutter & Mobile App Development
+03 >> Firebase & Backend Integration
+
+devank@github:~$ ./status --check
+
+[SYSTEM_STATUS]
+LEARNING   : ACTIVE
+BUILDING   : ACTIVE
+IMPROVING  : ACTIVE
+
+devank@github:~$ echo $MOTTO
 
 Always learning. Always building.
 ```
@@ -56,7 +73,9 @@ Currently, I'm strengthening my skills in Java, Flutter, Dart, Firebase, Firesto
 
 I'm always looking to improve my development skills and work on projects that solve real-world problems.
 
-## `02. / TECH STACK`
+---
+
+## `0x02 // TECH_STACK`
 
 <p align="center">
   <img src="https://img.shields.io/badge/JAVA-161B22?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
@@ -69,41 +88,139 @@ I'm always looking to improve my development skills and work on projects that so
   <img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-**Core Concepts**
+```text
+devank@github:~$ ls ./technical-skills
 
-`OOP` · `DBMS` · `DSA Fundamentals` · `SDLC` · `Software Testing` · `REST APIs`
+[PROGRAMMING]
+    Java
 
-## `03. / FEATURED PROJECTS`
+[MOBILE_DEVELOPMENT]
+    Flutter
+    Dart
 
-### 01. EduSync — College ERP System
+[BACKEND_AND_DATABASE]
+    Firebase
+    Cloud Firestore
+    SQL
 
-`Flutter` `Firebase Authentication` `Cloud Firestore`
+[DEVELOPER_TOOLS]
+    Git
+    GitHub
+
+[CORE_CONCEPTS]
+    Object-Oriented Programming
+    DBMS
+    DSA Fundamentals
+    Software Development Life Cycle
+    Software Testing
+    REST APIs
+
+devank@github:~$ 
+```
+
+---
+
+## `0x03 // FEATURED_PROJECTS`
+
+### `0x0301 // EduSync — College ERP System`
+
+<p>
+  <code>FLUTTER</code>
+  <code>FIREBASE AUTHENTICATION</code>
+  <code>CLOUD FIRESTORE</code>
+</p>
 
 A role-based college ERP application designed for administrators, teachers, and students. Includes academic management, attendance tracking, and QR-based attendance workflows.
 
-### 02. BlueWave — Real-Time Chat Application
+```bash
+$ ./project --info edusync
 
-`Flutter` `Firebase Authentication` `Cloud Firestore`
+TYPE       : College ERP System
+ACCESS     : Admin | Teacher | Student
+FEATURES   : Academic Management
+             Attendance Tracking
+             QR-Based Attendance
+STATUS     : Development Project
+```
+
+### `0x0302 // BlueWave — Real-Time Chat Application`
+
+<p>
+  <code>FLUTTER</code>
+  <code>FIREBASE AUTHENTICATION</code>
+  <code>CLOUD FIRESTORE</code>
+</p>
 
 A real-time messaging application featuring Google Sign-In, live messaging, user profiles, contact discovery, and message interactions.
 
+```bash
+$ ./project --info bluewave
 
-### 03. Gemini AI Coding Tutor
+TYPE       : Real-Time Messaging Application
+AUTH       : Google Sign-In
+DATABASE   : Cloud Firestore
+FEATURES   : Live Messaging
+             User Profiles
+             Contact Discovery
+             Message Interactions
+```
 
-`Java` `Maven` `Gemini API`
+### `0x0303 // Gemini AI Coding Tutor`
+
+<p>
+  <code>JAVA</code>
+  <code>MAVEN</code>
+  <code>GEMINI API</code>
+</p>
 
 A Java-based coding assistant that helps users understand programming concepts through logic explanations, pseudocode, code generation, and time complexity analysis.
 
-## `04. / ACHIEVEMENTS & CERTIFICATIONS`
+```bash
+$ ./project --info gemini-coding-tutor
 
-- Four patent applications.
-- NPTEL Elite — Software Testing, IIT Kharagpur.
-- JPMorgan Chase Software Engineering Virtual Experience.
-- AWS Cloud Operations.
-- Oracle Database Foundations — SQL.
-- Oracle Fusion AI Agent Studio Foundations Associate.
+LANGUAGE   : Java
+BUILD      : Maven
+INTEGRATION: Gemini API
+FEATURES   : Logic Explanation
+             Pseudocode Generation
+             Code Generation
+             Complexity Analysis
+```
 
-## `05. / GITHUB STREAK`
+---
+
+## `0x04 // ACHIEVEMENTS_CERTIFICATIONS`
+
+```bash
+devank@github:~$ ls ./achievements
+
+[INTELLECTUAL_PROPERTY]
+    04 Patent Applications
+
+[ACADEMIC_CERTIFICATIONS]
+    NPTEL Elite - Software Testing
+    IIT Kharagpur
+
+[INDUSTRY_EXPERIENCE]
+    JPMorgan Chase - Software Engineering
+    Virtual Experience
+
+[CLOUD_COMPUTING]
+    AWS Cloud Operations
+
+[DATABASE]
+    Oracle Database Foundations - SQL
+
+[ARTIFICIAL_INTELLIGENCE]
+    Oracle Fusion AI Agent Studio
+    Foundations Associate
+
+devank@github:~$ 
+```
+
+---
+
+## `0x05 // GITHUB_ACTIVITY`
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Devankraghav&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
@@ -111,8 +228,40 @@ A Java-based coding assistant that helps users understand programming concepts t
 
 ---
 
+## `0x06 // CONNECTION_STATUS`
+
 <p align="center">
-  <samp>OPEN TO INTERNSHIPS · ENTRY-LEVEL ROLES · COLLABORATIONS</samp>
+  <samp>
+    [ SYSTEM_STATUS : ONLINE ]
+    <br/>
+    [ AVAILABILITY : OPEN ]
+    <br/>
+    [ INTEREST : INTERNSHIPS | ENTRY-LEVEL ROLES | COLLABORATIONS ]
+  </samp>
+
   <br/><br/>
+
+  <code>
+    01001100 01000101 01000001 01010010 01001110
+  </code>
+
+  <br/>
+  <samp>LEARN</samp>
+
+  <br/><br/>
+
+  <code>
+    01000010 01010101 01001001 01001100 01000100
+  </code>
+
+  <br/>
+  <samp>BUILD</samp>
+
+  <br/><br/>
+
   <code>while(alive) { learn(); build(); repeat(); }</code>
+</p>
+
+<p align="center">
+  <samp>END_OF_FILE // 0xFF</samp>
 </p>
