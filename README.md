@@ -1,42 +1,129 @@
-<h6 align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/bea6ffa3-8a41-4ec8-a6b6-08969814da64"
-    width="300"
-    alt="HI Portrait"
-  />
-</h6><br> :sunglasses:
-## 💫 About Me:
-Hi, I’m Devank Raghav — a Computer Science undergraduate at CGC Landran with a strong interest in software development, mobile app development, and real-world problem solving.
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/bea6ffa3-8a41-4ec8-a6b6-08969814da64" width="270" alt="Devank ASCII HI portrait"/>
+</p>
 
-I’m currently focused on strengthening my skills in Java, Flutter, Dart, Firebase, Firestore, SQL, and core computer science concepts like OOP, DBMS, Data Structures, and Software Engineering. I enjoy building practical applications with clean logic, responsive UI, and reliable backend integration.
+<h1 align="center">DEVANK RAGHAV</h1>
 
-I have hands-on experience in developing Flutter-based mobile applications, integrating Firebase services, working with real-time databases, and applying software development principles through academic projects and training.
+<p align="center">
+  <code>COMPUTER SCIENCE UNDERGRADUATE</code>
+  <br/>
+  <samp>Building. Learning. Improving.</samp>
+</p>
 
-I’m continuously learning, improving my problem-solving skills, and exploring opportunities where I can contribute as a Java Developer, Flutter Developer, Mobile App Developer, Software Developer, or Backend Developer.
-
-Open to internships, entry-level roles, projects, and meaningful tech collaborations.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devank-raghav) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Devank_Raghav) [ https://www.instagram.com/br34th_x ]
-
-# 💻 Tech Stack: 
-Flutter | Firebase
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Devankraghav&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Devankraghav&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devankraghav&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Devankraghav&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Devankraghav&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://linkedin.com/in/devank-raghav">
+    <img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=9CB9D8"/>
+  </a>
+  <a href="https://github.com/Devankraghav">
+    <img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://x.com/Devank_Raghav">
+    <img src="https://img.shields.io/badge/X-161B22?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/br34th_x">
+    <img src="https://img.shields.io/badge/INSTAGRAM-161B22?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Devankraghav&icon=0&color=1)](https://visitcount.itsvg.in)
 
+## `01. / WHOAMI`
 
+```bash
+devank@github:~$ whoami
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Computer Science Student
+CGC Landran | B.Tech CSE | 2023–2027
+
+devank@github:~$ current_focus
+
+Java Development
+Flutter & Mobile App Development
+Firebase & Backend Integration
+Problem Solving
+
+devank@github:~$ status
+
+Always learning. Always building.
+```
+
+Hi, I'm Devank Raghav, a Computer Science undergraduate interested in software development and building practical applications.
+
+I enjoy turning ideas into working applications, solving problems through code, and learning how different technologies work together.
+
+My current focus is on Java, Flutter, Dart, Firebase, Firestore, SQL, and core computer science concepts such as OOP, DBMS, DSA, and Software Engineering.
+
+I'm always looking to improve my development skills and work on projects that solve real problems.
+
+## `02. / TECH STACK`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-161B22?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+  <img src="https://img.shields.io/badge/Flutter-161B22?style=for-the-badge&logo=flutter&logoColor=54C5F8"/>
+  <img src="https://img.shields.io/badge/Dart-161B22?style=for-the-badge&logo=dart&logoColor=54C5F8"/>
+  <img src="https://img.shields.io/badge/Firebase-161B22?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+  <img src="https://img.shields.io/badge/Firestore-161B22?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+  <img src="https://img.shields.io/badge/SQL-161B22?style=for-the-badge&logo=postgresql&logoColor=9CB9D8"/>
+  <img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+**Core Concepts**
+
+`OOP` · `DBMS` · `DSA Fundamentals` · `SDLC` · `Software Testing` · `REST APIs`
+
+## `03. / FEATURED PROJECTS`
+
+### 01. EduSync – College ERP System
+`Flutter` `Firebase Authentication` `Cloud Firestore`
+
+A role-based college ERP application designed for administrators, teachers, and students, with attendance management and organized academic workflows.
+
+### 02. BlueWave – Real-Time Chat Application
+`Flutter` `Firebase Authentication` `Cloud Firestore`
+
+A real-time messaging application featuring Google Sign-In, live chat, user profiles, contact discovery, and message interactions.
+
+[View Project](https://github.com/Devankraghav/BlueWave)
+
+### 03. Gemini AI Coding Tutor
+`Java` `Maven` `Gemini API`
+
+A Java-based coding assistant that helps users understand programming concepts through logic explanations, pseudocode, code generation, and time complexity analysis.
+
+## `04. / ACHIEVEMENTS & LEARNING`
+
+- Four patent applications.
+- NPTEL Elite Certification – Software Testing, IIT Kharagpur.
+- JPMorgan Chase Software Engineering Virtual Experience.
+- AWS Cloud Operations training.
+- Oracle Database and AI Agent Studio certifications.
+
+## `05. / GITHUB ANALYTICS`
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Devankraghav&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+  <img width="48%" src="https://streak-stats.demolab.com?user=Devankraghav&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devankraghav&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+## `06. / TROPHIES`
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Devankraghav&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+</p>
+
+---
+
+<p align="center">
+  <samp>
+    OPEN TO INTERNSHIPS · ENTRY-LEVEL ROLES · COLLABORATIONS
+  </samp>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=Devankraghav&style=flat-square&color=5B8DB8&label=PROFILE+VISITORS"/>
+  <br/><br/>
+  <code>while(alive) { learn(); build(); repeat(); }</code>
+</p>
