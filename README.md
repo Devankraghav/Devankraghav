@@ -1,5 +1,6 @@
- <p align="center">
-  <img src="https://github.com/user-attachments/assets/bea6ffa3-8a41-4ec8-a6b6-08969814da64" width="270" alt="Devank ASCII HI portrait"/>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bea6ffa3-8a41-4ec8-a6b6-08969814da64" width="260" alt="Devank ASCII Portrait"/>
 </p>
 
 <h1 align="center">DEVANK RAGHAV</h1>
@@ -32,15 +33,15 @@
 ```bash
 devank@github:~$ whoami
 
-Computer Science Student
-CGC Landran | B.Tech CSE | 2023–2027
+Devank Raghav
+B.Tech CSE | CGC Landran
+2023 – 2027
 
-devank@github:~$ current_focus
+devank@github:~$ focus
 
 Java Development
 Flutter & Mobile App Development
 Firebase & Backend Integration
-Problem Solving
 
 devank@github:~$ status
 
@@ -49,23 +50,23 @@ Always learning. Always building.
 
 Hi, I'm Devank Raghav, a Computer Science undergraduate interested in software development and building practical applications.
 
-I enjoy turning ideas into working applications, solving problems through code, and learning how different technologies work together.
+I enjoy developing useful applications, solving problems through code, and exploring technologies that help turn ideas into working products.
 
-My current focus is on Java, Flutter, Dart, Firebase, Firestore, SQL, and core computer science concepts such as OOP, DBMS, DSA, and Software Engineering.
+Currently, I'm strengthening my skills in Java, Flutter, Dart, Firebase, Firestore, SQL, and core concepts such as OOP, DBMS, DSA, and Software Engineering.
 
-I'm always looking to improve my development skills and work on projects that solve real problems.
+I'm always looking to improve my development skills and work on projects that solve real-world problems.
 
 ## `02. / TECH STACK`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-161B22?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
-  <img src="https://img.shields.io/badge/Flutter-161B22?style=for-the-badge&logo=flutter&logoColor=54C5F8"/>
-  <img src="https://img.shields.io/badge/Dart-161B22?style=for-the-badge&logo=dart&logoColor=54C5F8"/>
-  <img src="https://img.shields.io/badge/Firebase-161B22?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
-  <img src="https://img.shields.io/badge/Firestore-161B22?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+  <img src="https://img.shields.io/badge/JAVA-161B22?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+  <img src="https://img.shields.io/badge/FLUTTER-161B22?style=for-the-badge&logo=flutter&logoColor=54C5F8"/>
+  <img src="https://img.shields.io/badge/DART-161B22?style=for-the-badge&logo=dart&logoColor=54C5F8"/>
+  <img src="https://img.shields.io/badge/FIREBASE-161B22?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+  <img src="https://img.shields.io/badge/FIRESTORE-161B22?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
   <img src="https://img.shields.io/badge/SQL-161B22?style=for-the-badge&logo=postgresql&logoColor=9CB9D8"/>
-  <img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GIT-161B22?style=for-the-badge&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 **Core Concepts**
@@ -74,56 +75,47 @@ I'm always looking to improve my development skills and work on projects that so
 
 ## `03. / FEATURED PROJECTS`
 
-### 01. EduSync – College ERP System
+### 01. EduSync — College ERP System
+
 `Flutter` `Firebase Authentication` `Cloud Firestore`
 
-A role-based college ERP application designed for administrators, teachers, and students, with attendance management and organized academic workflows.
+A role-based college ERP application designed for administrators, teachers, and students. Includes academic management, attendance tracking, and QR-based attendance workflows.
 
-### 02. BlueWave – Real-Time Chat Application
+### 02. BlueWave — Real-Time Chat Application
+
 `Flutter` `Firebase Authentication` `Cloud Firestore`
 
-A real-time messaging application featuring Google Sign-In, live chat, user profiles, contact discovery, and message interactions.
+A real-time messaging application featuring Google Sign-In, live messaging, user profiles, contact discovery, and message interactions.
 
 [View Project](https://github.com/Devankraghav/BlueWave)
 
 ### 03. Gemini AI Coding Tutor
+
 `Java` `Maven` `Gemini API`
 
 A Java-based coding assistant that helps users understand programming concepts through logic explanations, pseudocode, code generation, and time complexity analysis.
 
-## `04. / ACHIEVEMENTS & LEARNING`
+## `04. / ACHIEVEMENTS & CERTIFICATIONS`
 
 - Four patent applications.
-- NPTEL Elite Certification – Software Testing, IIT Kharagpur.
+- NPTEL Elite — Software Testing, IIT Kharagpur.
 - JPMorgan Chase Software Engineering Virtual Experience.
-- AWS Cloud Operations training.
-- Oracle Database and AI Agent Studio certifications.
+- AWS Cloud Operations.
+- Oracle Database Foundations — SQL.
+- Oracle Fusion AI Agent Studio Foundations Associate.
 
-## `05. / GITHUB ANALYTICS`
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Devankraghav&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-  <img width="48%" src="https://streak-stats.demolab.com?user=Devankraghav&theme=tokyonight&hide_border=true"/>
-</p>
+## `05. / GITHUB STREAK`
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devankraghav&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-## `06. / TROPHIES`
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Devankraghav&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+  <img src="https://streak-stats.demolab.com?user=Devankraghav&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
 
 ---
 
 <p align="center">
-  <samp>
-    OPEN TO INTERNSHIPS · ENTRY-LEVEL ROLES · COLLABORATIONS
-  </samp>
+  <samp>OPEN TO INTERNSHIPS · ENTRY-LEVEL ROLES · COLLABORATIONS</samp>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=Devankraghav&style=flat-square&color=5B8DB8&label=PROFILE+VISITORS"/>
+  <img src="https://komarev.com/ghpvc/?username=Devankraghav&style=flat-square&color=5B8DB8&label=PROFILE+VIEWS" alt="Profile Views"/>
   <br/><br/>
   <code>while(alive) { learn(); build(); repeat(); }</code>
 </p>
