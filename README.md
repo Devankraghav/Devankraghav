@@ -115,7 +115,6 @@ A Java-based coding assistant that helps users understand programming concepts t
 <p align="center">
   <samp>OPEN TO INTERNSHIPS · ENTRY-LEVEL ROLES · COLLABORATIONS</samp>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=Devankraghav&style=flat-square&color=5B8DB8&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <br/><br/>
+ 
   <code>while(alive) { learn(); build(); repeat(); }</code>
 </p>
