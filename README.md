@@ -87,7 +87,6 @@ A role-based college ERP application designed for administrators, teachers, and 
 
 A real-time messaging application featuring Google Sign-In, live messaging, user profiles, contact discovery, and message interactions.
 
-[View Project](https://github.com/Devankraghav/BlueWave)
 
 ### 03. Gemini AI Coding Tutor
 
